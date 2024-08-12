@@ -3,10 +3,10 @@ import React from 'react'
 
 function Card() {
   return (
-    <div className='bg-background-100 w-200 h-200'>
+    <div>
       <Image
         alt='Icon_HTML'
-        src="assets/icons/icon_html.svg"
+        src="/assets/images/website_logo2.png"
         width={100}
         height={100}
       />
